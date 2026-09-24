@@ -1,0 +1,16 @@
+## Interface: 120100
+## Title: Mythic Meta Data
+## Notes: Tracks guild members' held keys, in-progress status, and per-dungeon completed/depleted bests.
+## Author: KaldaraWorks
+## Version: 1.0.0
+## SavedVariables: MythicMetaDataDB
+
+Core.lua
+Checksum.lua
+Data.lua
+Officer.lua
+Roster.lua
+Season.lua
+Sync.lua
+Events.lua
+UI.lua
